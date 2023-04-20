@@ -1,8 +1,7 @@
 - 👋 Hi, I’m Seyyed Alireza Mirabedini
-- 🎓 Student of Iran University of Science and Technology in electrical engineering
+- 🎓 Student of Iran University of Science and Technology in Electrical Engineering
 - 🥈 Silver medalist of Iran Physics Olympiad
 - 🧑‍💻 C/C++ Developer (PC & Microcontroller)
-- 🖼️ Interested in nature photography
 
 <!---
 salirezamir/salirezamir is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
