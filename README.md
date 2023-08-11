@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m Alireza Mirabedini<br>🎓 Student of Iran University of Science and Technology in Electrical Engineering<br>🥈 Silver medalist of Iran Physics Olympiad<br>🧑‍💻 C/C++ Developer (PC & Microcontroller)<br>📄 [My Resume](https://drive.google.com/file/d/1VSLyhQA39jVUmg_syKuLEoMl8a0SRfEv/view?usp=sharing)
+👋 Hi, I’m Alireza Mirabedini<br>🎓 Student of Iran University of Science and Technology in Electrical Engineering<br>🥈 Silver medalist of Iran Physics Olympiad<br>🧑‍💻 C/C++ Developer (PC & Microcontroller)<br>📄 [My Resume](https://drive.google.com/file/d/1ajI6vRKPXYw6z0dM26ZidrfEtUWNE0-c/view?usp=drivesdk)
 
 
 ## 🌐 Socials:
